@@ -86,3 +86,13 @@ header > h1 {
 .three > p {
   color: white;
 }
+
+.paragraph {
+  padding: 10px;
+}
+
+footer {
+  background-color: #06D6A0;
+  padding: 10px;
+  text-align: right;
+}
